@@ -1,1 +1,1 @@
-The program generates a random number between 11 and 100100 and asks the user to guess the number.
+The program generates a random number between 1 and 100 and asks the user to guess the number.
